@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_40_指定療養通所介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "楽らく療養通所プルーンベリーハウス【指定療養通所介護】福岡県福岡市南区野多目1丁目10-331階", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4091100620-00&ServiceCd=&Type=search", "url2": "https://rakusapo.net/" }, "geometry": { "type": "Point", "coordinates": [ 130.425224530688439, 33.542097397954201 ] } }
+]
+}

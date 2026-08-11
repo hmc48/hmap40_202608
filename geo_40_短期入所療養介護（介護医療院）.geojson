@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_40_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "香椎原病院介護医療院【短期入所療養介護（介護医療院）】福岡県福岡市東区香椎３丁目３番１号", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4070805132-00&ServiceCd=551&Type=search", "url2": "http://www.kashiihara.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 130.450943, 33.6569633 ] } },
+{ "type": "Feature", "properties": { "内容": "こもり介護医療院【短期入所療養介護（介護医療院）】福岡県福岡市博多区対馬小路9番13号", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=40B0900033-00&ServiceCd=551&Type=search", "url2": "https://komori-hp.cloud-line.com/" }, "geometry": { "type": "Point", "coordinates": [ 130.4017881, 33.6000225 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院かねのくま【短期入所療養介護（介護医療院）】福岡県福岡市博多区金の隈３丁目２４番１６号", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=40B0900017-00&ServiceCd=551&Type=search", "url2": "http:www.kanenokuma-hp.jp" }, "geometry": { "type": "Point", "coordinates": [ 130.481173, 33.5565336 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　ありあけ【短期入所療養介護（介護医療院）】福岡県大牟田市船津町440番地3", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=40B1500022-00&ServiceCd=551&Type=search", "url2": "http://www/ariake/or/jp/" }, "geometry": { "type": "Point", "coordinates": [ 130.438064, 33.006894 ] } }
+]
+}

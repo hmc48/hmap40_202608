@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_40_特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ウエルネス【特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））】福岡県久留米市田主丸町田主丸1001-4", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4071603106-00&ServiceCd=&Type=search", "url2": "http://hijirikai.com/" }, "geometry": { "type": "Point", "coordinates": [ 130.690322299999906, 33.3366405 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　メゾン・ド・プレール【特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））】福岡県京都郡苅田町大字新津1597番地", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4078000363-00&ServiceCd=&Type=search", "url2": "http://www.youmeikai.jp/obase" }, "geometry": { "type": "Point", "coordinates": [ 130.9743449, 33.7501316 ] } }
+]
+}

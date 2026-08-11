@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_40_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　パレス三萩野【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】福岡県北九州市小倉北区白銀2-11-4年長者の里　小倉　西館", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4070404704-00&ServiceCd=&Type=search", "url2": "http://n-sato.com/" }, "geometry": { "type": "Point", "coordinates": [ 130.876605400000017, 33.8680137 ] } },
+{ "type": "Feature", "properties": { "内容": "くらじの里家【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】直方市須崎町6番3号", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4071701512-00&ServiceCd=&Type=search", "url2": "http://kurajinosatoya.jp" }, "geometry": { "type": "Point", "coordinates": [ 130.724291572352627, 33.751166716251134 ] } },
+{ "type": "Feature", "properties": { "内容": "サンホーム八女【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】福岡県八女市大島４００番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4072300587-00&ServiceCd=&Type=search", "url2": "http://sunhome.sunmedic.net/matsuzaki/" }, "geometry": { "type": "Point", "coordinates": [ 130.560037980673172, 33.221502663381678 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人芙蓉会　メディカルケア南ヶ丘【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】福岡県大野城市大字牛頸1034-66メディカルケア南ヶ丘", "url": "https://www.kaigokensaku.mhlw.go.jp/40/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4073201172-00&ServiceCd=&Type=search", "url2": "mdc-f.net/minami/" }, "geometry": { "type": "Point", "coordinates": [ 130.476267723417692, 33.506661470934226 ] } }
+]
+}
